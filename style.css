@@ -1,8 +1,6 @@
-.titulo{text-align: center;
+body{font-size: 20px;
+text-align: center; 
 background-color: gray;}
 
-.paragrafo1{text-align: center;}
 
-.paragrafo2{text-align: center;}
-
-.paragrafo3{text-align: center;}
+.destaque{color: red;}
