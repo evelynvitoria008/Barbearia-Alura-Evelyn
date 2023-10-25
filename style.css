@@ -3,4 +3,7 @@ text-align: center;
 background-color: gray;}
 
 
-.destaque{color: red;}
+em strong {
+    color: red;
+}
+
