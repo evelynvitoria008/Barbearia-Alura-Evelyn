@@ -1,9 +1,15 @@
-body{font-size: 20px;
-text-align: center; 
-background-color: gray;}
+font-size: 20px;
 
+.destaque{color: red;}
 
-em strong {
-    color: red;
-}
+.principal{background-color:gray;
+text-align: center;}
 
+.subtitulo{text-align: center;}
+
+.lista{display: inline-block;
+vertical-align: top;}
+
+.imagem{width: 100%;}
+
+.imagem.beneficio{width: 50%;} 
